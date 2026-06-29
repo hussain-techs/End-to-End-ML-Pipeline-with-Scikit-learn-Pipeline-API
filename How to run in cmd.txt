@@ -1,0 +1,2 @@
+pip install scikit-learn pandas numpy joblib matplotlib seaborn
+python churn_pipeline.py
